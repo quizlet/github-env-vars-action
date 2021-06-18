@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/FranzDiebold/github-env-vars-action#readme",
   "dependencies": {
-    "@actions/core": "^1.2.4"
+    "@actions/core": "^1.2.6"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
